@@ -1,6 +1,6 @@
 # Script de Envio de E-mails
 
-Este script em Python permite enviar e-mails para uma lista de destinatários a partir de um banco de dados (Planilha do Excel). Ele utiliza a biblioteca `smtplib` para se conectar a um servidor SMTP (no exemplo, usamos o Gmail) e envia e-mails com anexos.
+Este script em Python permite enviar e-mails para uma lista de destinatários a partir de um banco de dados (Planilha do Excel). Ele utiliza a biblioteca `smtplib` para se conectar a um servidor SMTP (no exemplo, usamos o Gmail) e envia e-mails com anexos em PDF.
 
 
 ## Pré-requisitos
